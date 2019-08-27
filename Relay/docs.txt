@@ -1,0 +1,3 @@
+CO = Common Connection
+NC = Normally Closed Connection
+NO = Normally Open Connection

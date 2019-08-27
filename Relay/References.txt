@@ -1,0 +1,2 @@
+https://howtomechatronics.com/tutorials/arduino/control-high-voltage-devices-arduino-relay-tutorial/
+https://create.arduino.cc/projecthub/fablabz/controlling-ac-light-using-arduino-with-relay-module-b5f1eb
