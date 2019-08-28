@@ -12,7 +12,6 @@ void loop()
   digitalWrite(7,HIGH);
   delay(10);
   digitalWrite(7,LOW);
-  delay(10);
   
   pinMode(7,INPUT);
   int distance = pulseIn(7,HIGH);
